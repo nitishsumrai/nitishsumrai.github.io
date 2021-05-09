@@ -1667,8 +1667,10 @@ input, select, textarea {
 			height: auto;
 		 }
 		 .image-item {
-
+			width: 100%;
+			height: auto;
 		}
 		.image-item img{
-
+			width: 100%;
+			height: auto;
 		}
